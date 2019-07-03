@@ -121,8 +121,8 @@ let list = new LinkedList();
 list.append(10);
 list.append(20);
 
-// console.log(list);
-// console.log(list.size());
-// console.log(list.isEmpty());
-// console.log(list);
+console.log(list);
+console.log(list.size());
+console.log(list.isEmpty());
+console.log(list);
 list.print();
